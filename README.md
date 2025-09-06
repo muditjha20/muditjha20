@@ -67,7 +67,7 @@
 ### 🧠 Recent Projects
 - **Kernel Canary++** – Real-time log anomaly detector (Isolation Forest, Microsoft NNI, SHAP, Flask API)
 - **ML Talent Predictor** – XGBoost classifier, SHAP explainability, Flask deployment, Azure-style workflow  
-- **Kanban Board Web App** – React + TypeScript frontend, ASP.NET Core backend, SignalR live sync, PostgreSQL  
+- **Kanban Board Web App** – React + TypeScript frontend, ASP.NET Core backend, PostgreSQL  
 - **DNA Sequence Matcher** – Java implementation of Needleman-Wunsch DP with scoring matrix + gap penalties  
 - **ML RAG Assistant** - Chatbot built with python and Open AI API to answer questions from a Research paper 
 - **Multi-Stop Route Optimizer** – Streamlit UI, OpenStreetMap geocoding, TSP optimization, OSRM API
