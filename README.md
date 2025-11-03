@@ -18,8 +18,8 @@
 ---
 
 ### 🚀 About Me
-- 🎓 CS Student @ University of the West Indies (Trinidad) | Academic Exchange @ University of Richmond (USA)  
-- 🏆 **ICPC Silver Medalist** (Trinidad Qualifiers) | **National Science Olympiad Gold Medalist** @ Delhi Public School (India)  
+- 🎓 Visiting Student @ University of Richmond (USA)
+- 🏆 **National Science Olympiad Gold Medalist** @ Delhi Public School (India)  
 - 💼 **Tutor - Computer Science** & **IT Helpdesk Technician** @ University of Richmond *(Aug 2025 – Present)*  
 - 🎯 10+ projects accross Full-Stack, AI/ML, Operating Systems, and Algorithms.  
 
@@ -75,9 +75,8 @@
 ---
 
 ### 🏅 Honors & Highlights
-- 🥈 ICPC Silver Medal – Trinidad & Tobago Regional  
 - 🥇 NSO Gold Medal – Delhi Public School, India  
-- 🏆 Dean's Honor Roll @ UWI | Dean's List + A-List @ U of Richmond  
+- 🏆 Dean's List + A-List @ University of Richmond  
 - 🧑‍🏫 CS Tutor + IT Technician @ UR | Mentor, Developer, Problem Solver  
 - 🎶 Indian Classical Vocalist – Trained in Dhrupad Tradition
 
