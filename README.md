@@ -19,8 +19,10 @@
 
 ### 🚀 About Me
 - 🎓 Visiting Student @ University of Richmond (USA)
+- 🥇 ICPC Gold Medal - USA Mid Atlantic Regional Contest
+- 💼 Software Engineering Intern at Gildan
 - 🏆 **National Science Olympiad Gold Medalist** @ Delhi Public School (India)  
-- 💼 **Tutor - Computer Science** & **IT Helpdesk Technician** @ University of Richmond *(Aug 2025 – Present)*  
+- 💼 **Tutor - Computer Science** & **IT Helpdesk Technician** @ University of Richmond *(Aug 2025 – May 2026)*  
 - 🎯 10+ projects accross Full-Stack, AI/ML, Operating Systems, and Algorithms.  
 
 ---
